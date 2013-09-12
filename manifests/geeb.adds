@@ -25,6 +25,12 @@
         "revision":     "jb43"
     },
     {
+        "remote":       "cm",
+        "repository":   "android_hardware_qcom_display-caf",
+        "target_path":  "hardware/qcom/display-caf",
+        "revision":     "cm-10.2"
+    },
+    {
         "remote":       "aosp",
         "account":      "platform",
         "repository":   "hardware/qcom/power",
@@ -32,39 +38,40 @@
         "revision":     "refs/tags/android-4.3_r1"
     },
     {
-        "remote":       "aosp",
-        "account":      "platform",
-        "repository":   "hardware/qcom/media",
+        "remote":       "cm",
+        "repository":   "android_hardware_qcom_media",
         "target_path":  "hardware/qcom/media",
-        "revision":     "refs/tags/android-4.3_r1"
+        "revision":     "cm-10.2"
     },
     {
-        "remote":       "aosp",
-        "account":      "platform",
-        "repository":   "hardware/qcom/wlan",
+        "remote":       "cm",
+        "repository":   "android_hardware_qcom_media-caf",
+        "target_path":  "hardware/qcom/media-caf",
+        "revision":     "cm-10.2"
+    },
+    {
+        "remote":       "cm",
+        "repository":   "android_hardware_qcom_wlan",
         "target_path":  "hardware/qcom/wlan",
-        "revision":     "refs/tags/android-4.3_r1"
+        "revision":     "cm-10.2"
     },
     {
-        "remote":       "aosp",
-        "account":      "platform",
-        "repository":   "hardware/qcom/audio",
+        "remote":       "cm",
+        "repository":   "android_hardware_qcom_audio",
         "target_path":  "hardware/qcom/audio",
-        "revision":     "refs/tags/android-4.3_r1"
+        "revision":     "cm-10.2"
     },
     {
-        "remote":       "aosp",
-        "account":      "platform",
-        "repository":   "hardware/qcom/msm8960",
+        "remote":       "cm",
+        "repository":   "android_hardware_qcom_msm8960",
         "target_path":  "hardware/qcom/msm8960",
-        "revision":     "refs/tags/android-4.3_r1"
+        "revision":     "cm-10.2"
     },
     {
-        "remote":       "aosp",
-        "account":      "platform",
-        "repository":   "hardware/qcom/keymaster",
+        "remote":       "cm",
+        "repository":   "android_hardware_qcom_keymaster",
         "target_path":  "hardware/qcom/keymaster",
-        "revision":     "refs/tags/android-4.3_r1"
+        "revision":     "cm-10.2"
     },
     {
         "remote":       "aosp",
